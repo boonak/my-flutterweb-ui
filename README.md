@@ -1,6 +1,9 @@
 # flutterweb
 
-A new Flutter project.
+Flutter web project
+*** UI only ***
+
+The project shows a dashboard of delivery service showing overall performance, driving and client status.
 
 ## Screenshots
 ![1](https://user-images.githubusercontent.com/33080981/189081188-e8790001-fdc2-47c8-aabd-fef6e42a1254.jpg)
